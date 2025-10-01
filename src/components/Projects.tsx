@@ -18,7 +18,7 @@ const Projects = () => {
       image: "/bugtracker.webp"
     },
     {
-      title: "Kikuyu to English Tranlation Model",
+      title: "Kikuyu to English Translation Model",
       year: "2025",
       description: "A Natural Language Processing (NLP) model designed to translate Kikuyu text into English, facilitating better communication and understanding between speakers of both languages.",
       tags: ["Python", "Machine Learning", "NLP", "PyTorch"],
