@@ -58,7 +58,7 @@ const Hero = () => {
             <p className="text-xl text-muted-foreground leading-relaxed mb-8">
               A Computer Science undergrad at Jkuat trying to balance backend development, AI, machine learning, and chess addiction.
             </p>
-            <a href="/MURAGU CV.pdf" download="Muragu_Resume.pdf">
+            <a href="/marymuragu_resume.pdf" download="marymuragu_Resume.pdf">
             <Button className="gap-2 hover:scale-105 transition-transform" size="lg">
               <Download className="w-5 h-5" />
               Download Resume
